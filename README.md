@@ -31,4 +31,5 @@
   
   Ported to NodeMCU by tobozo (c+) Nov 2016
   
-  https://youtu.be/RZ90ruADrI4
+  [![The Hobo's Animated IoT Clock](https://img.youtube.com/vi/RZ90ruADrI4/0.jpg)](https://www.youtube.com/watch?v=RZ90ruADrI4)
+
